@@ -6,7 +6,7 @@ This project uses artificial intelligence to detect and score calcium deposits i
 
 ---
 
-## 📥 **For Complete Beginners - How to Get This Project**
+##  **For Complete Beginners - How to Get This Project**
 
 ### **Step 1: Download the Project**
 1. **Click the green "Code" button** at the top of this GitHub page
